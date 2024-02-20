@@ -9,8 +9,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vi1199/rn-test-core.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
